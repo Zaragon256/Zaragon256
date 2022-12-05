@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zaragon256 a Chilean Software Developer.
+- 👀 I’m interested in coding, games, algorithms and cats :smile_cat:
+- 🌱 I’m currently learning Java, JavaScript, Typescript, Image rendering, Clean code, Automation, Problem solving algorithms and Team leading
+- 💞️ I’m looking to collaborate on small JavaScript based games and utilities
+- 📫 Reach me at luis.arenas.zu@gmail.com
